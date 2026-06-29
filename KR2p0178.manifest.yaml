@@ -1,0 +1,37 @@
+canonical_identifier: bkk:krp/KR2p0178/v1
+canonical_location: https://kanripo.org/bkk/KR2p0178/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 日書甲種
+  identifiers:
+    krp: KR2p0178
+  tags:
+    tls-internal: swl
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0178.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0178_001.yaml, hash: 'sha256:3a55dd1583179d7aecbfb728abff3c302a46d650c6d9ec7b7902cee1123ca9ed'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0178_001.markers.yaml, hash: 'sha256:fc6483b9cfbe77d457a59903a7a7d457e2f9535b2ee7d3d13e5b568d6f274c62'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0178_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 12054
+  label: 睡虎地秦墓竹簡日書甲種
+  type: section
+  level: 1
+hash: sha256:93a7f7b074a22f8e051ab9ace479388453b0ba1da62e422bc0c2b181ad1edcd0
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
