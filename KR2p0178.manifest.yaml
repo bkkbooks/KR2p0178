@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0178_001.yaml, hash: 'sha256:3a55dd1583179d7aecbfb728abff3c302a46d650c6d9ec7b7902cee1123ca9ed'}
+  - {seq: 1, filename: KR2p0178_001.yaml, hash: 'sha256:e2ee2817eaf6197037b57038c45c9afccd3d2c0e7d649c7c0b3c12d861e3e40c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0178_001.markers.yaml, hash: 'sha256:fc6483b9cfbe77d457a59903a7a7d457e2f9535b2ee7d3d13e5b568d6f274c62'}
+  - {seq: 1, role: markers, filename: assets/KR2p0178_001.markers.yaml, hash: 'sha256:5c626765e3bc79214fcd0144a87252cdc34d049c95c5356ba568db306dcad4d3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,7 +31,4 @@ table_of_contents:
   label: 睡虎地秦墓竹簡日書甲種
   type: section
   level: 1
-hash: sha256:93a7f7b074a22f8e051ab9ace479388453b0ba1da62e422bc0c2b181ad1edcd0
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:4a6f3f91649f761a0937b3ea079054f8d92381e39be49eb54fc185766d950d4d
